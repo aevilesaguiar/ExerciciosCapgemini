@@ -1,4 +1,4 @@
-package principal;
+package POO;
 
 public class Pessoa {
 

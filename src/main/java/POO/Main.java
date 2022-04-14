@@ -1,4 +1,4 @@
-package principal;
+package POO;
 
 import java.util.Scanner;
 
